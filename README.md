@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **PrasannaNiroula987@gmail.com**
 
-- 📄(I am currently pursuing Bachelor in Computer science and Information Technology (Bsc. CSIT))
+- 📄Education:I am currently pursuing Bachelor in Computer science and Information Technology (Bsc. CSIT)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
