@@ -47,6 +47,7 @@
 
 <br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=prasannaniroula&layout=compact&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=prasannaniroula&layout=compact)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasannaniroula&show_icons=true&locale=en" alt="prasannaNiroula" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasannaniroula&" alt="prasannaniroula" /></p>
 
