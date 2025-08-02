@@ -48,6 +48,6 @@
 <br><br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=prasannaniroula&layout=compact)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasannaniroula&show_icons=true&locale=en" alt="prasannaNiroula" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasannaniroula&show_icons=true&locale=en&cache_seconds=60" alt="prasannaNiroula" />
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=prasannaniroula&cache_bust=3" /></p>
 
