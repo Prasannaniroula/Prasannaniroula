@@ -11,7 +11,7 @@
 
 <p align="left">
       
-<a href="https://fb.com/https://www.facebook.com/prasanna.niraula.9" target="blank">
+<a href="https://www.facebook.com/prasanna.niraula.9" target="blank">
       
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/prasanna.niraula.9" height="30" width="40" />
 
