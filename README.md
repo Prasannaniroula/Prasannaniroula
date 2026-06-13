@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **React JS**
 
 - 📫 How to reach me **PrasannaNiroula987@gmail.com**
+- Portfolio Website: **https://prasannaniroula.com.np/**
 
 - 📄Education: I am currently pursuing Bachelor in Computer science and Information Technology (Bsc. CSIT)
 
@@ -48,8 +49,4 @@
 <img align="left" alt="git" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
 
 <br><br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=prasannaniroula&layout=compact) <br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasannaniroula&show_icons=true&locale=en&cache_seconds=60" alt="prasannaNiroula" />
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=prasannaniroula&cache_bust=3" /></p>
 
