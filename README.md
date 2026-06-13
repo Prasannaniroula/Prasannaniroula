@@ -32,7 +32,7 @@ Personal portfolio showcasing projects and technical skills.
 
 ## 🌐 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge)](https://prasannaniroula.com.np)<br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge)](https://prasannaniroula.com.np) ----> More Info about me with live link of my project<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/prasanna-niroula-74564219b) ---->
 Primary method to contact me <br>
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/PrasannaNiraula) ---->
