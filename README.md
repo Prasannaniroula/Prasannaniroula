@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **PrasannaNiroula987@gmail.com**
 - Portfolio Website: **https://prasannaniroula.com.np/**
-## 🚀 About Me
+## 👨🏻‍💼 About Me
 
 I'm a BSc CSIT student passionate about full-stack web development and AI-powered applications.
 
